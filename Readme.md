@@ -12,9 +12,8 @@
 
 ## Project 2 [Live Link]()
 
-- Skills Gained in this project
-  - Learnd to use css position [Relative & Absolute] property.
+- Skills Gained in this projectSkills Gained in this project
+  - Learnd to use css position property.
   - Learned to use pseudo classes like **:nth-child()**, **:not()**, **:last-child**, **first-child**
-  - Learned to create underline on navbar link using **::after** & **::before** pseudo elements.
 
 ---
