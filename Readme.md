@@ -10,7 +10,7 @@
 
 ![name](https://img.shields.io/badge/Sana--Quazi)
 
-## Project 2 [Live Link]()
+## Project 2 [Live Link](https://live-project-three.netlify.app/)
 
 - Skills Gained in this projectSkills Gained in this project
   - Learnd to use css position property.
